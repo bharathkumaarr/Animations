@@ -25,7 +25,6 @@ gsap.from('#page2 #box', {
 }) 
 
 gsap.to('#page3 #box', {
-    scale: 0,
     scale: 3,
     duration: 3,
     delay:0.5,
@@ -33,10 +32,10 @@ gsap.to('#page3 #box', {
         trigger:'#page3 #box',
         scroller: 'body',
         markers: true,
-        start: 'top 55%',
+        start: 'top 60%',
         end: 'top 30%',
 
-        scrub: 3 // can be 1,2,3,4,5 or true. but true makes the animation too rough and not too smooth, better to use 1-5. 5 id tooo smooth and 1 is less smooth
+        scrub: 5 // can be 1,2,3,4,5 or true. but true makes the animation too rough and not too smooth, better to use 1-5. 5 id tooo smooth and 1 is less smooth
     }
 
 
