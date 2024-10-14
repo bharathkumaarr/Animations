@@ -1,9 +1,9 @@
-CSS animations \n
-after before \n
-gsap \n
-scroll trigger \n
-locomotive js \n
-lenis\n 
-swiper js \n 
+CSS animations  
+after before  
+gsap  
+scroll trigger  
+locomotive js  
+lenis  
+swiper js   
 react animations w framer motion
 
