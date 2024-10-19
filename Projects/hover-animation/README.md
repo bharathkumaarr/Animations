@@ -1,1 +1,1 @@
-new: lerp functionality in gsap & clamping in gsap
+new: lerp functionality in gsap & mapRange in gsap
